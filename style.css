@@ -22,6 +22,7 @@
   color: hsl(228, 45%, 44%);
 }
 body {
+  padding: 40px;
   background: url(images/pattern-background-desktop.svg), var(--pale-blue);
   background-repeat: no-repeat;
   background-size: contain;
